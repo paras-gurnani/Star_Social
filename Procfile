@@ -1,1 +1,1 @@
-web: gunicorn myproject.wsgi
+web: gunicorn star_social.wsgi
